@@ -1,0 +1,17 @@
+node_modules/
+build/
+dist/
+coverage/
+
+.env
+.env.*
+!.env.example
+
+.aistudio/
+.gmp_cache/
+tmp_civicfix/
+
+*.log
+.DS_Store
+*.zip
+data/civic_db.json
